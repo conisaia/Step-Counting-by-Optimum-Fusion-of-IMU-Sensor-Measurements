@@ -1,4 +1,4 @@
-# Pedestrian Dead Reckoning (PDR) Step Counting Optimum Combination
+# Step Counting by Optimum Fusion of IMU Sensor Measurements
 <p> It consists of 15 datasets from three different experiments from three different body parts (Ankle, Arm, Hand, Leg, Waist).
 <p> Each file was derived from smartphone during pedestrian walking on a treadmill on three different speeds (3.3km/h, 4.6km/h and 5.9km/h).
 <p> Each file consists 33 parameters (Accelerometer x, Accelerometer y, Accelerometer z, Gravity x, Gravity y, Gravity z, Linear Accelerometer x, Linear Accelerometer y, Linear Accelerometer z, Gyroscope x, Gyroscope y, Gyroscope z, Light, Magnetic Field x, Magnetic Field y, Magnetic Field z, Orientation z, Orientation x, Orientation y, Promixity, Sound level, Location (latitude), Location (longitude), Location (Althitude), Location Altitude-google, Location Speed, Location Accuracy, Location Orientation, Satellites in range, GPS, Date and time)
